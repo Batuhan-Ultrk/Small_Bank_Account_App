@@ -1,0 +1,10 @@
+HesapNumarası: TR650001001231575610625003 ;HesapBakiyesi: 10000 ;HesapAcmaTarihi: 10.01.2020 ;HesapTuru: kisavadeli
+ HesapNumarası: TR580001001231575610625003 ;HesapBakiyesi: 500 ;HesapAcmaTarihi: 29.04.2021 ;HesapTuru: uzunvadeli
+ HesapNumarası: TR650001001231571260625003 ;HesapBakiyesi: 12000 ;HesapAcmaTarihi: 12.05.2020 ;HesapTuru: normal
+ HesapNumarası: TR450001008431575610625003 ;HesapBakiyesi: 1500 ;HesapAcmaTarihi: 03.01.2022 ;HesapTuru: uzunvadeli
+ HesapNumarası: TR650005001231575610625003 ;HesapBakiyesi: 2000 ;HesapAcmaTarihi: 19.06.2022 ;HesapTuru: normal
+ HesapNumarası: TR950001001231575610625002 ;HesapBakiyesi: 2500 ;HesapAcmaTarihi: 04.09.2022 ;HesapTuru: kisavadeli
+ HesapNumarası: TR650001001231575610625005 ;HesapBakiyesi: 850 ;HesapAcmaTarihi: 12.12.2020 ;HesapTuru: kisavadeli
+ HesapNumarası: TR350001001231575610628003 ;HesapBakiyesi: 1260 ;HesapAcmaTarihi: 28.07.2022 ;HesapTuru: normal
+ HesapNumarası: TR120001008531575610625006 ;HesapBakiyesi: 4500 ;HesapAcmaTarihi: 20.10.2022 ;HesapTuru: uzunvadeli
+ HesapNumarası: TR950001001231574610625001 ;HesapBakiyesi: 15000 ;HesapAcmaTarihi: 17.04.2021 ;HesapTuru: kisavadeli 
